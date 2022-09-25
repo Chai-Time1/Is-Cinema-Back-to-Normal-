@@ -4,15 +4,19 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
  * Group Members: 
-Tarun Badarvada
-Second-year
-Contact: badarvada.t@northeastern.edu
-Shashank Subramanya
-Second-year
-Contact: subramanya.s@northeastern.edu 
-Akash Cheela 
-Second-year
-Contact: cheela.a@northeastern.edu 
+ * 
+ * Tarun Badarvada
+ * Second-year
+ * Contact: badarvada.t@northeastern.edu
+
+ * Shashank Subramanya
+ * Second-year
+ * Contact: subramanya.s@northeastern.edu
+
+ * Akash Cheela 
+ * Second-year
+ * Contact: cheela.a@northeastern.edu 
+
 
 Level of Data Science Experience: Beginner
 
