@@ -1,9 +1,9 @@
-Is Cinema Back to Normal?
+#Is Cinema Back to Normal?
 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
--Group Members: 
+Group Members: 
 Tarun Badarvada
 Second-year
 Contact: badarvada.t@northeastern.edu
@@ -58,3 +58,11 @@ Box Office Mojo: https://www.boxofficemojo.com/
 
 Box Office Mojo Weekends 2022: https://www.boxofficemojo.com/weekend/?ref_=bo_nb_di_secondarytab
 
+
+
+## Technologies
+***
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
