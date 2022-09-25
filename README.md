@@ -6,9 +6,9 @@
  * Group Members: 
 
 
-  * Tarun Badarvada
- * Second-year
- * Contact: badarvada.t@northeastern.edu
+   * Tarun Badarvada
+   * Second-year
+   * Contact: badarvada.t@northeastern.edu
 
 
  * Shashank Subramanya
