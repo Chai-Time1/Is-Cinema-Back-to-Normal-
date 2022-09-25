@@ -6,7 +6,7 @@
  * Group Members: 
 
 
- * * Tarun Badarvada
+  * Tarun Badarvada
  * Second-year
  * Contact: badarvada.t@northeastern.edu
 
