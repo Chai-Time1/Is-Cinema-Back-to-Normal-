@@ -3,7 +3,7 @@ Is Cinema Back to Normal?
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Group Members: 
+*Group Members: 
 Tarun Badarvada
 Second-year
 Contact: badarvada.t@northeastern.edu
