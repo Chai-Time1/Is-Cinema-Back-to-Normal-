@@ -19,21 +19,21 @@ Level of Data Science Experience: Beginner
 
 Project Timeline:
 
-10/5
-Gather resources
-Scrap data
-Clean data
-10/19
-Implement Code
-Visualize data
-Analyze Data
-Brainstorm how we can predict the box office for 2023
-Gather data from 2023
-11/02
-Create Predictions for 2023 box office
-Gather all findings to present
-11/16
-Presentation
+* 10/5
+  * Gather resources
+  * Scrap data
+  * Clean data
+* 10/19
+  * Implement Code
+  * Visualize data
+  * Analyze Data
+  * Brainstorm how we can predict the box office for 2023
+  * Gather data from 2023
+* 11/02
+  * Create Predictions for 2023 box office
+  * Gather all findings to present
+* 11/16
+  * Presentation
 
 -------------------------------------------------------------------------------------------------------------------------------
 
