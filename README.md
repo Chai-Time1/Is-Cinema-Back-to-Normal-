@@ -59,3 +59,9 @@ Box Office Mojo: https://www.boxofficemojo.com/
 
 Box Office Mojo Weekends 2022: https://www.boxofficemojo.com/weekend/?ref_=bo_nb_di_secondarytab
 
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+## Presentation Slides
+
+https://docs.google.com/presentation/d/1OtkcrwYwRG1nxtYuFE_pcdTRRjoSJSG7tPYnMHGGO4Q/edit?usp=sharing
